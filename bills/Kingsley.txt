@@ -1,0 +1,6 @@
+Bill Breakdown 
+name:                     ...Kingsley
+fufu:                     ...$444
+tip:                      ...$54.00
+
+total:                    ...$498.00
